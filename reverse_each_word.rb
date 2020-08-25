@@ -1,5 +1,5 @@
 def reverse_each_word(array)
-  join(array)
+  array.join
    puts "Hello there, and how are you?"
 
 
